@@ -9,7 +9,6 @@ redirect_from:
 
 {% include base_path %}
 
-Instructor
 ======
 * Microeconomic Theory(Undergraduate), Virgnia Tech, 2024 Summer
 
