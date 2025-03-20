@@ -11,4 +11,4 @@ redirect_from:
 
 Working Paper
 ======
-* **[Learning Networks](/files/Learning Networks_JP.pdf)** (with Promit K. Chaudhuri, Sudipta Sarangi, and Hector Tzavellas), March 2025
+* **[Learning Networks](Learning Networks_JP.pdf)** (with Promit K. Chaudhuri, Sudipta Sarangi, and Hector Tzavellas), March 2025
