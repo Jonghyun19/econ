@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Teaching"
+title: "Teaching Experiences"
 permalink: /teaching/
 author_profile: true
 redirect_from:
@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 {% include base_path %}
-
+Instructor
 ======
 * Microeconomic Theory(Undergraduate), Virgnia Tech, 2024 Summer
 
