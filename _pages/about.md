@@ -7,6 +7,6 @@ redirect_from:
   - /about.html
 ---
 
-Bio: I am a PhD candidate in Economics at Virgnia Tech. My research area is social network, game theory, and political economics.
+I am a PhD candidate in Economics at Virgnia Tech. My research area is social network, game theory, and political economics.
 
 Contact Information: jongh2419@vt.edu 
