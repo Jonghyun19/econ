@@ -15,7 +15,9 @@ main:
     url: /teaching/    
         
   - title: "CV"
-    url: /files/JP_CV.pdf
+    url: https://jonghyun19.github.io/econ/files/JP_CV.pdf
+    external: true
+
 
 
 
