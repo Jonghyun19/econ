@@ -11,4 +11,4 @@ redirect_from:
 
 Working Paper
 ======
-* **[Learning Networks](https://jonghyun19.github.io/econ/files/Learning_Networks.pdf)** (with Promit K. Chaudhuri, Sudipta Sarangi, and Hector Tzavellas), March 2025
+* **[Learning Networks](https://jonghyun19.github.io/econ/files/Learning_Networks.pdf){:target="_blank"}** (with Promit K. Chaudhuri, Sudipta Sarangi, and Hector Tzavellas), March 2025
