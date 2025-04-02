@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "CV"
-permalink: /cv/JP_CV.pdf
+permalink: /cv/Jonghyun_CV.pdf
 author_profile: true
 redirect_from:
   - /resume
